@@ -1,13 +1,13 @@
 {
     "season": 2015,
     "type": "REG",
-    "conferences": [{
+    "league": [{
         "id": "NRL",
         "name": "NRL",
         "divisions": [{
-            "id": "AFC_EAST",
-            "name": "AFC East",
-            "teams": [{
+            "id": "FIRST_GRADE",
+            "name": "First Grade",
+        "teams": [{
                 "id": "NE",
                 "name": "Patriots",
                 "market": "New England",

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <standings xmlns="http://api.scoreline.com/Ver3/nrl/standings-v1.0.xsd" season="2016" type="REG">
-  <conference id="NRL" name="NRL">
-    <division id="AFC_EAST" name="AFC East">
+  <league id="NRL" name="NRL">
+    <division id="FIRST_GRADE" name="First Grade">
       <team id="NE" name="Patriots" market="New England">
         <overall wins="12" losses="4" ties="0" wpct="0.75"/>
         <in_conference wins="9" losses="3" ties="0" wpct="0.75"/>
@@ -75,6 +75,6 @@
         <streak type="win" value="1"/>
       </team>
     </division>
-  </conference>
+  </league>
  
 </standings>
