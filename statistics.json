@@ -25,14 +25,17 @@
                     "name": "Kurt Mann",
                     "jersey": 4,
                     "position": "Winger2",
-                    "pass": 0,
-                    "rush": 2,
-                    "int": 0,
-                    "fum_ret": 0,
-                    "punt_ret": 0,
-                    "kick_ret": 0,
-                    "fg_ret": 0,
-                    "other": 0
+                    "mins": 80,
+                    "all_runs": 7,
+                    "total_runs_metres": 85,
+                    "tackles": 7,
+                    "total_missed_tackles": 1,
+                    "total_line_breaks": 2,
+                    "total_try_assists": 0,
+                    "tries": 2,
+                    "total_goals": 0,
+                    "total_field_goals": 0,
+                    "fantasy": 57
                 }]
             },
             "possession": {
@@ -85,20 +88,108 @@
                     "field_goals": 0,
                     "penalty_goals": 0
                 },
-                "players": [{
-                    "id": "12",
-                    "name": "Carlos Hyde",
-                    "jersey": 28,
-                    "position": "RB",
-                    "pass": 0,
-                    "rush": 2,
-                    "int": 0,
-                    "fum_ret": 0,
-                    "punt_ret": 0,
-                    "kick_ret": 0,
-                    "fg_ret": 0,
-                    "other": 0
-                }]
+                "players": [
+                    {
+                        "id": "7",
+                        "name": "Kurt Mann",
+                        "jersey": 4,
+                        "position": "Winger2",
+                        "mins": 80,
+                        "all_runs": 7,
+                        "total_runs_metres": 85,
+                        "tackles": 7,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 2,
+                        "total_try_assists": 0,
+                        "tries": 2,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 57
+                    },{
+
+                        "id": "7",
+                        "name": "Kurt Mann",
+                        "jersey": 4,
+                        "position": "Winger2",
+                        "mins": 80,
+                        "all_runs": 7,
+                        "total_runs_metres": 85,
+                        "tackles": 7,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 2,
+                        "total_try_assists": 0,
+                        "tries": 2,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 57
+                    },{
+
+                        "id": "7",
+                        "name": "Kurt Mann",
+                        "jersey": 4,
+                        "position": "Winger2",
+                        "mins": 80,
+                        "all_runs": 7,
+                        "total_runs_metres": 85,
+                        "tackles": 7,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 2,
+                        "total_try_assists": 0,
+                        "tries": 2,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 57
+                    },{
+
+                        "id": "7",
+                        "name": "Kurt Mann",
+                        "jersey": 4,
+                        "position": "Winger2",
+                        "mins": 80,
+                        "all_runs": 7,
+                        "total_runs_metres": 85,
+                        "tackles": 7,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 2,
+                        "total_try_assists": 0,
+                        "tries": 2,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 57
+                    },{
+                        "id": "7",
+                        "name": "Kurt Mann",
+                        "jersey": 4,
+                        "position": "Winger2",
+                        "mins": 80,
+                        "all_runs": 7,
+                        "total_runs_metres": 85,
+                        "tackles": 7,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 2,
+                        "total_try_assists": 0,
+                        "tries": 2,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 57
+                    },{
+                        "id": "7",
+                        "name": "Kurt Mann",
+                        "jersey": 4,
+                        "position": "Winger2",
+                        "mins": 80,
+                        "all_runs": 7,
+                        "total_runs_metres": 85,
+                        "tackles": 7,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 2,
+                        "total_try_assists": 0,
+                        "tries": 2,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 57
+                    }
+                ]
             },
             "possession": {
                 "team": {
