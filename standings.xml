@@ -2,7 +2,7 @@
 <standings xmlns="http://api.scoreline.com/Ver3/nrl/standings-v1.0.xsd" season="2016" type="REG">
   <league id="NRL" name="NRL">
     <division id="FIRST_GRADE" name="First Grade">
-      <team id="MAN" name="Manly" moniker="sea eagles">
+      <team id="MAN" name="Manly" moniker="Sea Eagles">
         <matches_played matches_played="17"/>
         <wins wins="5"/>
         <wins_overtime wins_overtime="1"/>
@@ -22,15 +22,15 @@
         <goals goals="377:394"/>
         <points points="20"/>
       </team>
-      <team id="BUF" name="Bills" moniker="Buffalo">
+      <team id="SOU" name="Souths" moniker="Rabbitohs">
         <matches_played matches_played="17"/>
-        <wins wins="9"/>
-        <wins_overtime wins_overtime="3"/>
-        <draws draws="4"/>
-        <losses_overtime losses_overtime="7"/>
-        <losses losses="5"/>
-        <goals goals="0"/>
-        <points points="1"/>
+        <wins wins="5"/>
+        <wins_overtime wins_overtime="0"/>
+        <draws draws="0"/>
+        <losses_overtime losses_overtime="1"/>
+        <losses losses="11"/>
+        <goals goals="328:410"/>
+        <points points="14"/>
       </team>
       <team id="MIA" name="Dolphins" moniker="Miami">
         <matches_played matches_played="17"/>

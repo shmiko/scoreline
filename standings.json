@@ -10,7 +10,7 @@
         "teams": [{
                 "id": "MAN",
                 "name": "Manly",
-                "moniker": "sea eagles",
+                "moniker": "Sea Eagles",
                 "matches_played": 17, 
                 "wins": 5,
                 "wins_overtime": 1,
@@ -32,17 +32,17 @@
                 "goals": "377:394",
                 "points": 20
             },{
-                "id": "MAN",
-                "name": "Manly",
-                "moniker": "sea eagles",
+                "id": "SOU",
+                "name": "Souths",
+                "moniker": "Rabbitohs",
                 "matches_played": 17, 
-                "wins": 9,
-                "wins_overtime": 3,
+                "wins": 5,
+                "wins_overtime": 0,
                 "draws": 0,
-                "losses_overtime": 0.75,
-                "losses": 1,
-                "goals": 0,
-                "points": 0.75
+                "losses_overtime": 1,
+                "losses": 11,
+                "goals": "328:410",
+                "points": 14
             },{
                 "id": "MAN",
                 "name": "Manly",
