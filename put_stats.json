@@ -1,0 +1,268 @@
+{
+    "id": "718a4f52-c6af-4080-b955-95e8769b68a7",
+    "date_played": "2016-17-07",
+    "status": "complete",
+    "round": "19",
+    "playing_field": "UOW Jubilee Oval, Sydney",
+    "winning_team": "GLD",
+    "final_result": "32-12",
+    "home_team": {
+        "id": "STI",
+        "moniker": "Dragons",
+        "name": "St George Illawarra",
+        "league": "Telstra Premiership",
+        "points": 12,
+        "statistics": {
+            "points": {
+                "team": {
+                    "tries": 2,
+                    "conversions": 2,
+                    "field_goals": 0,
+                    "penalty_goals": 0
+                },
+                "players": [
+                    {
+                        "id": "7",
+                        "name": "Kurt Mann",
+                        "jersey": 4,
+                        "position": "Winger2",
+                        "mins": 80,
+                        "all_runs": 7,
+                        "total_runs_metres": 85,
+                        "tackles": 7,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 2,
+                        "total_try_assists": 0,
+                        "tries": 2,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 57,
+                        "conversions":0
+                    },{
+                        "id": "6",
+                        "name": "Gareth Widdop",
+                        "jersey": 6,
+                        "position": "Five-Eighth",
+                        "mins": 80,
+                        "all_runs": 11,
+                        "total_runs_metres": 92,
+                        "tackles": 14,
+                        "total_missed_tackles": 4,
+                        "total_line_breaks": 0,
+                        "total_try_assists": 0,
+                        "tries": 0,
+                        "total_goals": 2,
+                        "total_field_goals": 0,
+                        "fantasy": 37,
+                        "conversions":2
+                    }
+                ]
+            },
+            "possession": {
+                "team": {
+                    "possession%": 48,
+                    "total_sets": 34,
+                    "complete_sets": 24,
+                    "completion_rates%": 71
+                }
+            },
+            "attack": {
+                "team": {
+                    "all_runs": 177,
+                    "all_run_metres": 1540,
+                    "line_breaks": 4,
+                    "offloads": 9
+                }              
+            },
+            "defence": {
+                "team": {
+                    "kick_metres": 408,
+                    "40/20": 0,
+                    "tackles": 367,
+                    "missed_tackles": 25,
+                    "goal_line_dropouts": 3,
+                    "try_saves": 3
+                }
+            },
+            "discipline": {
+                "team": {
+                    "penalties_conceded": 4,
+                    "errors": 8,
+                    "send_offs": 0,
+                    "sin_bins": 0
+                }
+            }
+        }
+    },
+    "away_team": {
+        "id": "GLD",
+        "moniker": "Titans",
+        "name": "Gold Coast",
+        "league": "Telstra Cup",
+        "points": 32,
+         "statistics": {
+            "points": {
+                "team": {
+                    "tries": 6,
+                    "conversions": 4,
+                    "field_goals": 0,
+                    "penalty_goals": 0
+                },
+                "players": [
+                    {
+                        "id": "1",
+                        "name": "David Mead",
+                        "jersey": 1,
+                        "position": "Winger2",
+                        "mins": 80,
+                        "all_runs": 16,
+                        "total_runs_metres": 164,
+                        "tackles": 8,
+                        "total_missed_tackles": 3,
+                        "total_line_breaks": 1,
+                        "total_try_assists": 0,
+                        "tries": 1,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 50,
+                        "conversions":0
+                    },{
+
+                        "id": "2",
+                        "name": "Anthony Don",
+                        "jersey": 2,
+                        "position": "Winger1",
+                        "mins": 80,
+                        "all_runs": 11,
+                        "total_runs_metres": 127,
+                        "tackles": 3,
+                        "total_missed_tackles": 3,
+                        "total_line_breaks": 0,
+                        "total_try_assists": 0,
+                        "tries": 1,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 18,
+                        "conversions":0
+                    },{
+
+                        "id": "5",
+                        "name": "Nene Macdonald",
+                        "jersey": 5,
+                        "position": "Winger2",
+                        "mins": 69,
+                        "all_runs": 15,
+                        "total_runs_metres": 236,
+                        "tackles": 4,
+                        "total_missed_tackles": 0,
+                        "total_line_breaks": 0,
+                        "total_try_assists": 0,
+                        "tries": 2,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 58,
+                        "conversions":0
+                    },{
+
+                        "id": "6",
+                        "name": "Tyrone Roberts",
+                        "jersey": 6,
+                        "position": "Five-Eighth",
+                        "mins": 80,
+                        "all_runs": 6,
+                        "total_runs_metres": 33,
+                        "tackles": 17,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 0,
+                        "total_try_assists": 1,
+                        "tries": 0,
+                        "total_goals": 4,
+                        "total_field_goals": 0,
+                        "fantasy": 63,
+                        "conversions":4
+                    },{
+                        "id": "9",
+                        "name": "Nathan Peats",
+                        "jersey": 9,
+                        "position": "Hooker",
+                        "mins": 66,
+                        "all_runs": 10,
+                        "total_runs_metres": 78,
+                        "tackles": 43,
+                        "total_missed_tackles": 1,
+                        "total_line_breaks": 0,
+                        "total_try_assists": 0,
+                        "tries": 1,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 66,
+                        "conversions":0
+                    },{
+                        "id": "12",
+                        "name": "Chris McQueen",
+                        "jersey": 12,
+                        "position": "2nd Row 2",
+                        "mins": 80,
+                        "all_runs": 9,
+                        "total_runs_metres": 68,
+                        "tackles": 45,
+                        "total_missed_tackles": 5,
+                        "total_line_breaks": 1,
+                        "total_try_assists": 0,
+                        "tries": 1,
+                        "total_goals": 0,
+                        "total_field_goals": 0,
+                        "fantasy": 65,
+                        "conversions":0
+                    }
+                ]
+            },
+            "possession": {
+                "team": {
+                    "possession%": 52,
+                    "total_sets": 39,
+                    "complete_sets": 33,
+                    "completion_rates%": 85
+                }
+            },
+            "attack": {
+                "team": {
+                    "all_runs": 186,
+                    "all_run_metres": 1858,
+                    "line_breaks": 5,
+                    "offloads": 12
+                }              
+            },
+            "defence": {
+                "team": {
+                    "kick_metres": 605,
+                    "40/20": 0,
+                    "tackles": 374,
+                    "missed_tackles": 27,
+                    "goal_line_dropouts": 2,
+                    "try_saves": 5
+                }
+            },
+            "discipline": {
+                "team": {
+                    "penalties_conceded": 3,
+                    "errors": 8,
+                    "send_offs": 0,
+                    "sin_bins": 0
+                }
+            }
+        }
+    },
+    "play_by_play":"The Titans – led by Josh Hoffman, Tyrone Roberts and two-try hero Nene Macdonald – were simply too good for the Dragons who had to deal with the mid-week withdrawals of Benji Marshall (hamstring) and Josh Dugan (jaw). 
+    The Dragons found themselves in the top eight following the NRL's decision to strip the Parramatta Eels of 12 competition points but could now end the weekend as low as tenth. 
+    The scene was set early for the Titans when Dragons halfback Josh McCrone ended the Red V's first set of the game by kicking it out on the full in his own half. 
+    It led to Gold Coast's first try after four minutes when winger Macdonald leapt high above the likes of Euan Aitken and Kalifa Faifai Loa to latch on to a Roberts cross-field kick. 
+    The Titans posted an 8-0 lead in the eighth minute when Chris McQueen strolled over past Mitch Rein and Tim Lafai thanks to handy lead-up work from halfback Ash Taylor. 
+    It took until the 12th minute for the Dragons to complete their first set, and five minutes later winger Kurt Mann handed the Titans a lesson in persistence when he somehow managed to get his arm free from the clutches of McQueen and Taylor to touch down. 
+    Titans centre Hoffman had the last laugh in the first half when in the 27th minute he pulled off a wicked step past Aitken to bust free and send hooker Nathan Peats over to score.
+    Up 14-6 at half-time, it took the Titans just one minute into the second half to score again through David Mead. It all began when Hoffman batted back a Roberts bomb to Agnatius Paasi, with the forward producing a magic offload for the returning fullback's four-pointer.  
+    The Dragons threatened to make a game of it in the 56th minute but an attacking raid would be put to bed by Macdonald, who intercepted a wild Gareth Widdop pass to race 90 metres and score his second of the game. 
+    Dragons hooker Rein found himself heading up the tunnel in the final 12 minutes but it would be the barnstorming run of Konrad Hurrell which made matters worse for the Red V in the final six minutes.
+    Hurrell well and truly buried Widdop on his way to assisting Anthony Don's 74th minute try, to ensure the Titans' eventual 20-point victory. 
+    Gold Coast Titans 32 (Nene Macdonald 2, Chris McQueen, Nathan Peats, David Mead, Anthony Don tries; Tyrone Roberts 4 goals) defeated St George Illawarra Dragons 12 (Kurt Mann 2 tries; Gareth Widdop 2 goals) at UOW Jubilee Oval. Crowd: 8,256. Half-time: Titans 14-6. On Report: Greg Bird (Titans) – high tackle. "
+}
