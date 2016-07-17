@@ -1,10 +1,10 @@
 {
     "id": "718a4f52-c6af-4080-b955-95e8769b68a7",
-    "scheduled": "2015-09-15T02:20:00+00:00",
+    "scheduled": "2016-06-25T02:20:00+00:00",
     "status": "closed",
     "home_team": {
-        "id": "SF",
-        "name": "49ers",
+        "id": "ST",
+        "name": "kn",
         "market": "San Francisco",
         "remaining_challenges": 2,
         "remaining_timeouts": 2,
