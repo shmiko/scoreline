@@ -1,7 +1,6 @@
 var faker = require('faker');
 
 exports.handler = function(event, context){
-  // return an array of 10 items in sports
   // include sport name, kind, description
   // teamSize, and eventDate
   var sports = [];
