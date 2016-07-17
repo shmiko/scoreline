@@ -32,15 +32,15 @@
         <goals goals="328:410"/>
         <points points="14"/>
       </team>
-      <team id="MIA" name="Dolphins" moniker="Miami">
+      <team id="BRI" name="Brisbane" moniker="Broncos">
         <matches_played matches_played="17"/>
         <wins wins="9"/>
-        <wins_overtime wins_overtime="3"/>
-        <draws draws="4"/>
-        <losses_overtime losses_overtime="7"/>
-        <losses losses="5"/>
-        <goals goals="0"/>
-        <points points="1"/>
+        <wins_overtime wins_overtime="1"/>
+        <draws draws="0"/>
+        <losses_overtime losses_overtime="0"/>
+        <losses losses="7"/>
+        <goals goals="406:307"/>
+        <points points="24"/>
       </team>
     </division>
   </league>

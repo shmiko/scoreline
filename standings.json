@@ -44,17 +44,17 @@
                 "goals": "328:410",
                 "points": 14
             },{
-                "id": "MAN",
-                "name": "Manly",
-                "moniker": "sea eagles",
+                "id": "BRI",
+                "name": "Brisbane",
+                "moniker": "Broncos",
                 "matches_played": 17, 
                 "wins": 9,
-                "wins_overtime": 3,
+                "wins_overtime": 1,
                 "draws": 0,
-                "losses_overtime": 0.75,
-                "losses": 1,
-                "goals": 0,
-                "points": 0.75
+                "losses_overtime": 0,
+                "losses": 7,
+                "goals": "406:307",
+                "points": 24
             }] 
         }]
     }]
