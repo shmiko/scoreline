@@ -25,10 +25,8 @@
             "laps_completed": 62,
             "laps_led": 27,
             "kms_completed": 340.0
-        },
-        {
-            "next_race_date": "2016-25-07",
-            "track":""
-        }]
+        }],
+        "next_race_date": "2016-25-07",
+        "track":"Daytona"
     }]
 }
