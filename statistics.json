@@ -10,19 +10,16 @@
         "id": "STI",
         "mascot": "Dragons",
         "name": "St George Illawarra",
-        "league": "Telstra Cup",
+        "league": "Telstra Premiership",
         "points": 12,
         "statistics": {
-            "touchdowns": {
+            "points": {
                 "team": {
-                    "pass": 0,
-                    "rush": 2,
-                    "int": 0,
-                    "fum_ret": 0,
-                    "punt_ret": 0,
-                    "kick_ret": 0,
-                    "fg_ret": 0,
-                    "other": 0
+                    "tries": 2,
+                    "conversions": 2,
+                    "field_goals": 0,
+                    "penalty_goals": 0,
+                    "penalties": 0
                 },
                 "players": [{
                     "id": "3a29784c-832f-4e41-a4ac-71d4f9ad410c",
@@ -39,140 +36,38 @@
                     "other": 0
                 }]
             },
-            "third_down_efficiency": {
+            "possession": {
                 "team": {
-                    "att": 12,
-                    "conv": 5,
-                    "pct": 41.667,
-                    "pass": 3,
-                    "rush": 2,
-                    "pen": 0
+                    "possession%": 48,
+                    "total_sets": 34,
+                    "complete_sets": 24,
+                    "completion_rates%": 71
                 }
             },
-            "rushing": {
+            "attack": {
                 "team": {
-                    "att": 39,
-                    "yds": 230,
-                    "avg": 5.897,
-                    "lg": 18,
-                    "td": 2,
-                    "fd": 15,
-                    "fd_pct": 38.462,
-                    "sfty": 0,
-                    "rz_att": 5,
-                    "fum": 0,
-                    "yds_10_pls": 8,
-                    "yds_20_pls": 0,
-                    "yds_30_pls": 0,
-                    "yds_40_pls": 0,
-                    "yds_50_pls": 0
-                },
-                "players": [{
-                    "id": "0acdcd3b-5442-4311-a139-ae7c506faf88",
-                    "name": "Reggie Bush",
-                    "jersey": 23,
-                    "position": "RB",
-                    "att": 2,
-                    "yds": 8,
-                    "avg": 4.0,
-                    "lg": 8,
-                    "td": 0,
-                    "fd": 0,
-                    "fd_pct": 0.0,
-                    "sfty": 0,
-                    "rz_att": 0,
-                    "fum": 0,
-                    "yds_10_pls": 0,
-                    "yds_20_pls": 0,
-                    "yds_30_pls": 0,
-                    "yds_40_pls": 0,
-                    "yds_50_pls": 0
-                }, {
-                    "id": "f5b78cdb-42a2-46c2-b9e3-ce39cafe33ec",
-                    "name": "Jarryd Hayne",
-                    "jersey": 38,
-                    "position": "RB",
-                    "att": 4,
-                    "yds": 13,
-                    "avg": 3.25,
-                    "lg": 9,
-                    "td": 0,
-                    "fd": 0,
-                    "fd_pct": 0.0,
-                    "sfty": 0,
-                    "rz_att": 0,
-                    "fum": 0,
-                    "yds_10_pls": 0,
-                    "yds_20_pls": 0,
-                    "yds_30_pls": 0,
-                    "yds_40_pls": 0,
-                    "yds_50_pls": 0
-                }, {
-                    "id": "3a29784c-832f-4e41-a4ac-71d4f9ad410c",
-                    "name": "Carlos Hyde",
-                    "jersey": 28,
-                    "position": "RB",
-                    "att": 26,
-                    "yds": 168,
-                    "avg": 6.462,
-                    "lg": 18,
-                    "td": 2,
-                    "fd": 12,
-                    "fd_pct": 46.154,
-                    "sfty": 0,
-                    "rz_att": 5,
-                    "fum": 0,
-                    "yds_10_pls": 6,
-                    "yds_20_pls": 0,
-                    "yds_30_pls": 0,
-                    "yds_40_pls": 0,
-                    "yds_50_pls": 0
-                }, {
-                    "id": "068b70bc-9558-4e99-b729-754fd28937ed",
-                    "name": "Colin Kaepernick",
-                    "jersey": 7,
-                    "position": "QB",
-                    "att": 7,
-                    "yds": 41,
-                    "avg": 5.857,
-                    "lg": 12,
-                    "td": 0,
-                    "fd": 3,
-                    "fd_pct": 42.857,
-                    "sfty": 0,
-                    "rz_att": 0,
-                    "fum": 0,
-                    "yds_10_pls": 2,
-                    "yds_20_pls": 0,
-                    "yds_30_pls": 0,
-                    "yds_40_pls": 0,
-                    "yds_50_pls": 0
-                }]
+                    "all_runs": 177,
+                    "all_run_metres": 1540,
+                    "line_breaks": 4,
+                    "offloads": 9
+                }              
             },
-            "redzone_efficiency": {
+            "defence": {
                 "team": {
-                    "att": 5,
-                    "td": 2,
-                    "pct": 40.0
+                    "kick_metres": 408,
+                    "40/20": 0,
+                    "tackles": 367,
+                    "missed_tackles": 25,
+                    "goal_line_dropouts": 3,
+                    "try_saves": 3
                 }
             },
-            "receiving": {
+            "discipline": {
                 "team": {
-                    "tar": 26,
-                    "rec": 17,
-                    "yds": 165,
-                    "yac": 165,
-                    "fd": 8,
-                    "avg": 9.706,
-                    "td": 0,
-                    "lg": 20,
-                    "rz_tar": 5,
-                    "fum": 0,
-                    "yds_10_pls": 4,
-                    "yds_20_pls": 2,
-                    "yds_30_pls": 0,
-                    "yds_40_pls": 0,
-                    "yds_50_pls": 0
+                    "penalties_conceded": 4,
+                    "errors": 8,
+                    "send_offs": 0,
+                    "sin_bins": 165
                 },
                 "players": [{
                     "id": "0acdcd3b-5442-4311-a139-ae7c506faf88",
@@ -2843,5 +2738,17 @@
                 }]
             }
         }
-    }
+    },
+    "play_by_play":"The Titans – led by Josh Hoffman, Tyrone Roberts and two-try hero Nene Macdonald – were simply too good for the Dragons who had to deal with the mid-week withdrawals of Benji Marshall (hamstring) and Josh Dugan (jaw). 
+    The Dragons found themselves in the top eight following the NRL's decision to strip the Parramatta Eels of 12 competition points but could now end the weekend as low as tenth. 
+    The scene was set early for the Titans when Dragons halfback Josh McCrone ended the Red V's first set of the game by kicking it out on the full in his own half. 
+    It led to Gold Coast's first try after four minutes when winger Macdonald leapt high above the likes of Euan Aitken and Kalifa Faifai Loa to latch on to a Roberts cross-field kick. 
+    The Titans posted an 8-0 lead in the eighth minute when Chris McQueen strolled over past Mitch Rein and Tim Lafai thanks to handy lead-up work from halfback Ash Taylor. 
+    It took until the 12th minute for the Dragons to complete their first set, and five minutes later winger Kurt Mann handed the Titans a lesson in persistence when he somehow managed to get his arm free from the clutches of McQueen and Taylor to touch down. 
+    Titans centre Hoffman had the last laugh in the first half when in the 27th minute he pulled off a wicked step past Aitken to bust free and send hooker Nathan Peats over to score.
+    Up 14-6 at half-time, it took the Titans just one minute into the second half to score again through David Mead. It all began when Hoffman batted back a Roberts bomb to Agnatius Paasi, with the forward producing a magic offload for the returning fullback's four-pointer.  
+    The Dragons threatened to make a game of it in the 56th minute but an attacking raid would be put to bed by Macdonald, who intercepted a wild Gareth Widdop pass to race 90 metres and score his second of the game. 
+    Dragons hooker Rein found himself heading up the tunnel in the final 12 minutes but it would be the barnstorming run of Konrad Hurrell which made matters worse for the Red V in the final six minutes.
+    Hurrell well and truly buried Widdop on his way to assisting Anthony Don's 74th minute try, to ensure the Titans' eventual 20-point victory. 
+    Gold Coast Titans 32 (Nene Macdonald 2, Chris McQueen, Nathan Peats, David Mead, Anthony Don tries; Tyrone Roberts 4 goals) defeated St George Illawarra Dragons 12 (Kurt Mann 2 tries; Gareth Widdop 2 goals) at UOW Jubilee Oval. Crowd: 8,256. Half-time: Titans 14-6. On Report: Greg Bird (Titans) – high tackle. "
 }
