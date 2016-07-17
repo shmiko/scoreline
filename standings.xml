@@ -12,7 +12,7 @@
         <goals goals="0"/>
         <points points="1"/>
       </team>
-      <team id="WAR" name="Warriors" mascot="New York">
+      <team id="WAR" name="New Zealand" moniker="Warriors">
         <matches_played matches_played="17"/>
         <wins wins="9"/>
         <wins_overtime wins_overtime="3"/>
@@ -22,7 +22,7 @@
         <goals goals="0"/>
         <points points="1"/>
       </team>
-      <team id="BUF" name="Bills" market="Buffalo">
+      <team id="BUF" name="Bills" moniker="Buffalo">
         <matches_played matches_played="17"/>
         <wins wins="9"/>
         <wins_overtime wins_overtime="3"/>
@@ -32,7 +32,7 @@
         <goals goals="0"/>
         <points points="1"/>
       </team>
-      <team id="MIA" name="Dolphins" market="Miami">
+      <team id="MIA" name="Dolphins" moniker="Miami">
         <matches_played matches_played="17"/>
         <wins wins="9"/>
         <wins_overtime wins_overtime="3"/>
