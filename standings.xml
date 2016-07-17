@@ -1,113 +1,599 @@
-<div id="box-table-type-1" data-ts="1468742118" data-hash="18878114e2072059f8113e3e689b0824"><div class="stats-table-container"><table id="table-type-1" class="stats-table stats-main table-1"><thead><tr class="main"><th class="rank col_rank" data-type="rank" title="Rank">#</th><th class="participant_name col_name" data-type="participant_name" title="Team">Team</th><th class="matches" data-type="matches" title="Matches Played">MP</th><th class="wins" data-type="wins" title="Wins">W</th><th class="wins_ot" data-type="wins_ot" title="Wins Overtime">WO</th><th class="draws" data-type="draws" title="Draws">D</th><th class="losses_ot" data-type="losses_ot" title="Losses Overtime">LO</th><th class="losses" data-type="losses" title="Losses">L</th><th class="goals" data-type="goals" title="Goals">G</th><th class="points" data-type="points" title="Points">Pts</th><th class="form" data-type="form" title="Last 5 matches">Form</th></tr></thead><tbody><tr class="odd glib-participant-A5vFzpKg" data-def-order="0"><td class="rank col_rank no q1" title="Promotion - NRL (Play Offs)">1.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-6432" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -100px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/melbourne-storm/A5vFzpKg/');">Melbourne Storm</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">13</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">0</td><td class="losses col_losses">3</td><td class="goals col_goals">418:198</td><td class="goals col_goals">32</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-n1hVloUR glib-participants-A5vFzpKg-AHjFxceb glib-partnames-melbourne-storm;sydney-roosters" title="[b]Next match:[/b]
-Melbourne Storm - Sydney Roosters
-1469266200">&nbsp;</a><a class="form-bg form-w glib-event-UaONV5Nk glib-participants-YqPIXNl6-A5vFzpKg glib-partnames-newcastle-knights;melbourne-storm" title="[b]16:20&amp;nbsp;[/b](Newcastle Knights - Melbourne Storm)
-1468728000">&nbsp;</a><a class="form-bg form-w glib-event-f7P0wcPb glib-participants-8llKIOZC-A5vFzpKg glib-partnames-brisbane-broncos;melbourne-storm" title="[b]6:48&amp;nbsp;[/b](Brisbane Broncos - Melbourne Storm)
-1467366600">&nbsp;</a><a class="form-bg form-w glib-event-dEAetaut glib-participants-A5vFzpKg-l8kJyHA4 glib-partnames-melbourne-storm;wests-tigers" title="[b]29:20&amp;nbsp;[/b](Melbourne Storm - Wests Tigers)
-1466920800">&nbsp;</a><a class="form-bg form-l 3 glib-event-rBpMRaQn glib-participants-2im7vJQo-A5vFzpKg glib-partnames-st-george-illawarra-dragons;melbourne-storm" title="[b]20:10&amp;nbsp;[/b](St. George Illawarra Dragons - Melbourne Storm)
-1466242200">&nbsp;</a><a class="form-bg form-bg-last form-w glib-event-xAHaAbeC glib-participants-AHjFxceb-A5vFzpKg glib-partnames-sydney-roosters;melbourne-storm" title="[b]0:46&amp;nbsp;[/b](Sydney Roosters - Melbourne Storm)
-1465637400">&nbsp;</a></div></td></tr><tr class="even glib-participant-I33IunsQ" data-def-order="1"><td class="rank col_rank no q1" title="Promotion - NRL (Play Offs)">2.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-13305" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -240px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/cronulla-sharks/I33IunsQ/');">Cronulla Sharks</a></span></td><td class="matches_played col_matches_played">16</td><td class="wins col_wins">13</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">0</td><td class="losses col_losses">2</td><td class="goals col_goals">413:250</td><td class="goals col_goals">32</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-jFCWTqh2 glib-participants-AHjFxceb-I33IunsQ glib-partnames-sydney-roosters;cronulla-sharks" title="[b]Next match:[/b]
-Sydney Roosters - Cronulla Sharks
-1468832400">&nbsp;</a><a class="form-bg form-w glib-event-lr4wiGgb glib-participants-dUpGFZmo-I33IunsQ glib-partnames-penrith-panthers;cronulla-sharks" title="[b]10:26&amp;nbsp;[/b](Penrith Panthers - Cronulla Sharks)
-1468130400">&nbsp;</a><a class="form-bg form-w glib-event-pdIDze9H glib-participants-I33IunsQ-K4NnX1JI glib-partnames-cronulla-sharks;parramatta-eels" title="[b]34:24&amp;nbsp;[/b](Cronulla Sharks - Parramatta Eels)
-1467451800">&nbsp;</a><a class="form-bg form-wo glib-event-OQusNyuI glib-participants-I33IunsQ-jLZDY3Za glib-partnames-cronulla-sharks;new-zealand-warriors" title="[b]19:18&amp;nbsp;OT [/b](Cronulla Sharks - New Zealand Warriors)
-1466839800">&nbsp;</a><a class="form-bg form-w glib-event-nuajXL2P glib-participants-I33IunsQ-CzOMWs4C glib-partnames-cronulla-sharks;north-queensland-cowboys" title="[b]13:10&amp;nbsp;[/b](Cronulla Sharks - NQ Cowboys)
-1465808400">&nbsp;</a><a class="form-bg form-bg-last form-w glib-event-UPBuFMts glib-participants-MihOHrkJ-I33IunsQ glib-partnames-canterbury-bulldogs;cronulla-sharks" title="[b]18:20&amp;nbsp;[/b](Canterbury Bulldogs - Cronulla Sharks)
-1465203600">&nbsp;</a></div></td></tr><tr class="odd glib-participant-CzOMWs4C" data-def-order="2"><td class="rank col_rank no q1" title="Promotion - NRL (Play Offs)">3.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-13302" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -180px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/north-queensland-cowboys/CzOMWs4C/');">NQ Cowboys</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">11</td><td class="wins_ot col_wins_ot">0</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">1</td><td class="losses col_losses">5</td><td class="goals col_goals">426:253</td><td class="goals col_goals">24</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-IL0EhTU2 glib-participants-CzOMWs4C-MihOHrkJ glib-partnames-north-queensland-cowboys;canterbury-bulldogs" title="[b]Next match:[/b]
-NQ Cowboys - Canterbury Bulldogs
-1469094600">&nbsp;</a><a class="form-bg form-l 3 glib-event-SY2sjz94 glib-participants-vD4EtSRJ-CzOMWs4C glib-partnames-canberra-raiders;north-queensland-cowboys" title="[b]26:12&amp;nbsp;[/b](Canberra Raiders - NQ Cowboys)
-1468227600">&nbsp;</a><a class="form-bg form-w glib-event-hMLLYYwU glib-participants-GfiBwwth-CzOMWs4C glib-partnames-south-sydney-rabbitohs;north-queensland-cowboys" title="[b]0:20&amp;nbsp;[/b](South Sydney Rabbitohs - NQ Cowboys)
-1467525600">&nbsp;</a><a class="form-bg form-w glib-event-z59auJfn glib-participants-CzOMWs4C-GruByQ4m glib-partnames-north-queensland-cowboys;manly-sea-eagles" title="[b]30:26&amp;nbsp;[/b](NQ Cowboys - Manly Sea Eagles)
-1467018000">&nbsp;</a><a class="form-bg form-l 3 glib-event-nuajXL2P glib-participants-I33IunsQ-CzOMWs4C glib-partnames-cronulla-sharks;north-queensland-cowboys" title="[b]13:10&amp;nbsp;[/b](Cronulla Sharks - NQ Cowboys)
-1465808400">&nbsp;</a><a class="form-bg form-bg-last form-w glib-event-IorNduRC glib-participants-CzOMWs4C-YqPIXNl6 glib-partnames-north-queensland-cowboys;newcastle-knights" title="[b]46:16&amp;nbsp;[/b](NQ Cowboys - Newcastle Knights)
-1465025400">&nbsp;</a></div></td></tr><tr class="even glib-participant-MihOHrkJ" data-def-order="3"><td class="rank col_rank no q1" title="Promotion - NRL (Play Offs)">4.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-13996" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -280px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/canterbury-bulldogs/MihOHrkJ/');">Canterbury Bulldogs</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">10</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">0</td><td class="losses col_losses">6</td><td class="goals col_goals">409:300</td><td class="goals col_goals">24</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-IL0EhTU2 glib-participants-CzOMWs4C-MihOHrkJ glib-partnames-north-queensland-cowboys;canterbury-bulldogs" title="[b]Next match:[/b]
-NQ Cowboys - Canterbury Bulldogs
-1469094600">&nbsp;</a><a class="form-bg form-w glib-event-fL4Zidvh glib-participants-MihOHrkJ-l8kJyHA4 glib-partnames-canterbury-bulldogs;wests-tigers" title="[b]32:22&amp;nbsp;[/b](Canterbury Bulldogs - Wests Tigers)
-1468056600">&nbsp;</a><a class="form-bg form-w glib-event-GGQdvwAh glib-participants-AHjFxceb-MihOHrkJ glib-partnames-sydney-roosters;canterbury-bulldogs" title="[b]20:24&amp;nbsp;[/b](Sydney Roosters - Canterbury Bulldogs)
-1467280200">&nbsp;</a><a class="form-bg form-w glib-event-6kVoMefO glib-participants-MihOHrkJ-8llKIOZC glib-partnames-canterbury-bulldogs;brisbane-broncos" title="[b]40:14&amp;nbsp;[/b](Canterbury Bulldogs - Brisbane Broncos)
-1466847000">&nbsp;</a><a class="form-bg form-w glib-event-ANF78xQO glib-participants-2im7vJQo-MihOHrkJ glib-partnames-st-george-illawarra-dragons;canterbury-bulldogs" title="[b]16:34&amp;nbsp;[/b](St. George Illawarra Dragons - Canterbury Bulldogs)
-1465797600">&nbsp;</a><a class="form-bg form-bg-last form-l 3 glib-event-UPBuFMts glib-participants-MihOHrkJ-I33IunsQ glib-partnames-canterbury-bulldogs;cronulla-sharks" title="[b]18:20&amp;nbsp;[/b](Canterbury Bulldogs - Cronulla Sharks)
-1465203600">&nbsp;</a></div></td></tr><tr class="odd glib-participant-8llKIOZC" data-def-order="4"><td class="rank col_rank no q1" title="Promotion - NRL (Play Offs)">5.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-6288" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -80px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/brisbane-broncos/8llKIOZC/');">Brisbane Broncos</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">9</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">0</td><td class="losses col_losses">7</td><td class="goals col_goals">406:307</td><td class="goals col_goals">24</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-dCaIimp9 glib-participants-8llKIOZC-dUpGFZmo glib-partnames-brisbane-broncos;penrith-panthers" title="[b]Next match:[/b]
-Brisbane Broncos - Penrith Panthers
-1469181000">&nbsp;</a><a class="form-bg form-w glib-event-GdKJWo8q glib-participants-GfiBwwth-8llKIOZC glib-partnames-south-sydney-rabbitohs;brisbane-broncos" title="[b]10:30&amp;nbsp;[/b](South Sydney Rabbitohs - Brisbane Broncos)
-1468661400">&nbsp;</a><a class="form-bg form-l 3 glib-event-f7P0wcPb glib-participants-8llKIOZC-A5vFzpKg glib-partnames-brisbane-broncos;melbourne-storm" title="[b]6:48&amp;nbsp;[/b](Brisbane Broncos - Melbourne Storm)
-1467366600">&nbsp;</a><a class="form-bg form-l 3 glib-event-6kVoMefO glib-participants-MihOHrkJ-8llKIOZC glib-partnames-canterbury-bulldogs;brisbane-broncos" title="[b]40:14&amp;nbsp;[/b](Canterbury Bulldogs - Brisbane Broncos)
-1466847000">&nbsp;</a><a class="form-bg form-w glib-event-8GAqEtdm glib-participants-8llKIOZC-vD4EtSRJ glib-partnames-brisbane-broncos;canberra-raiders" title="[b]26:18&amp;nbsp;[/b](Brisbane Broncos - Canberra Raiders)
-1465465800">&nbsp;</a><a class="form-bg form-bg-last form-l 3 glib-event-0AmIcLB6 glib-participants-jLZDY3Za-8llKIOZC glib-partnames-new-zealand-warriors;brisbane-broncos" title="[b]36:18&amp;nbsp;[/b](New Zealand Warriors - Brisbane Broncos)
-1465016400">&nbsp;</a></div></td></tr><tr class="even glib-participant-vD4EtSRJ" data-def-order="5"><td class="rank col_rank no q1" title="Promotion - NRL (Play Offs)">6.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-13303" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -200px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/canberra-raiders/vD4EtSRJ/');">Canberra Raiders</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">9</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">1</td><td class="losses_ot col_losses_ot">1</td><td class="losses col_losses">5</td><td class="goals col_goals">432:350</td><td class="goals col_goals">23</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-vykNj7aF glib-participants-vD4EtSRJ-jLZDY3Za glib-partnames-canberra-raiders;new-zealand-warriors" title="[b]Next match:[/b]
-Canberra Raiders - New Zealand Warriors
-1469250000">&nbsp;</a><a class="form-bg form-w glib-event-SY2sjz94 glib-participants-vD4EtSRJ-CzOMWs4C glib-partnames-canberra-raiders;north-queensland-cowboys" title="[b]26:12&amp;nbsp;[/b](Canberra Raiders - NQ Cowboys)
-1468227600">&nbsp;</a><a class="form-bg form-wo glib-event-OnHHZEON glib-participants-vD4EtSRJ-YqPIXNl6 glib-partnames-canberra-raiders;newcastle-knights" title="[b]29:25&amp;nbsp;OT [/b](Canberra Raiders - Newcastle Knights)
-1467518400">&nbsp;</a><a class="form-bg form-w glib-event-KhZkLF9U glib-participants-xht7x6ks-vD4EtSRJ glib-partnames-gold-coast-titans;canberra-raiders" title="[b]22:30&amp;nbsp;[/b](Gold Coast Titans - Canberra Raiders)
-1466913600">&nbsp;</a><a class="form-bg form-l 3 glib-event-8GAqEtdm glib-participants-8llKIOZC-vD4EtSRJ glib-partnames-brisbane-broncos;canberra-raiders" title="[b]26:18&amp;nbsp;[/b](Brisbane Broncos - Canberra Raiders)
-1465465800">&nbsp;</a><a class="form-bg form-bg-last form-w glib-event-MJlEb1d0 glib-participants-vD4EtSRJ-GruByQ4m glib-partnames-canberra-raiders;manly-sea-eagles" title="[b]30:18&amp;nbsp;[/b](Canberra Raiders - Manly Sea Eagles)
-1464947400">&nbsp;</a></div></td></tr><tr class="odd glib-participant-xht7x6ks" data-def-order="6"><td class="rank col_rank no q1" title="Promotion - NRL (Play Offs)">7.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-13301" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -160px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/gold-coast-titans/xht7x6ks/');">Gold Coast Titans</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">7</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">1</td><td class="losses col_losses">8</td><td class="goals col_goals">367:370</td><td class="goals col_goals">20</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-hvgRkREL glib-participants-xht7x6ks-K4NnX1JI glib-partnames-gold-coast-titans;parramatta-eels" title="[b]Next match:[/b]
-Gold Coast Titans - Parramatta Eels
-1469259000">&nbsp;</a><a class="form-bg form-w glib-event-pAcnkfOA glib-participants-2im7vJQo-xht7x6ks glib-partnames-st-george-illawarra-dragons;gold-coast-titans" title="[b]12:32&amp;nbsp;[/b](St. George Illawarra Dragons - Gold Coast Titans)
-1468576200">&nbsp;</a><a class="form-bg form-l 3 glib-event-lUO4xHv5 glib-participants-jLZDY3Za-xht7x6ks glib-partnames-new-zealand-warriors;gold-coast-titans" title="[b]27:18&amp;nbsp;[/b](New Zealand Warriors - Gold Coast Titans)
-1467435600">&nbsp;</a><a class="form-bg form-l 3 glib-event-KhZkLF9U glib-participants-xht7x6ks-vD4EtSRJ glib-partnames-gold-coast-titans;canberra-raiders" title="[b]22:30&amp;nbsp;[/b](Gold Coast Titans - Canberra Raiders)
-1466913600">&nbsp;</a><a class="form-bg form-w glib-event-xAwVPwea glib-participants-xht7x6ks-GruByQ4m glib-partnames-gold-coast-titans;manly-sea-eagles" title="[b]30:10&amp;nbsp;[/b](Gold Coast Titans - Manly Sea Eagles)
-1466413200">&nbsp;</a><a class="form-bg form-bg-last form-l 3 glib-event-O6DeBvt6 glib-participants-K4NnX1JI-xht7x6ks glib-partnames-parramatta-eels;gold-coast-titans" title="[b]22:12&amp;nbsp;[/b](Parramatta Eels - Gold Coast Titans)
-1465630200">&nbsp;</a></div></td></tr><tr class="even glib-participant-jLZDY3Za" data-def-order="7"><td class="rank col_rank no q1" title="Promotion - NRL (Play Offs)">8.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-6433" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -120px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/new-zealand-warriors/jLZDY3Za/');">New Zealand Warriors</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">7</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">2</td><td class="losses col_losses">7</td><td class="goals col_goals">377:394</td><td class="goals col_goals">20</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-vykNj7aF glib-participants-vD4EtSRJ-jLZDY3Za glib-partnames-canberra-raiders;new-zealand-warriors" title="[b]Next match:[/b]
-Canberra Raiders - New Zealand Warriors
-1469250000">&nbsp;</a><a class="form-bg form-lo glib-event-O0djlEwH glib-participants-GruByQ4m-jLZDY3Za glib-partnames-manly-sea-eagles;new-zealand-warriors" title="[b]15:14&amp;nbsp;OT [/b](Manly Sea Eagles - New Zealand Warriors)
-1468654200">&nbsp;</a><a class="form-bg form-w glib-event-lUO4xHv5 glib-participants-jLZDY3Za-xht7x6ks glib-partnames-new-zealand-warriors;gold-coast-titans" title="[b]27:18&amp;nbsp;[/b](New Zealand Warriors - Gold Coast Titans)
-1467435600">&nbsp;</a><a class="form-bg form-lo glib-event-OQusNyuI glib-participants-I33IunsQ-jLZDY3Za glib-partnames-cronulla-sharks;new-zealand-warriors" title="[b]19:18&amp;nbsp;OT [/b](Cronulla Sharks - New Zealand Warriors)
-1466839800">&nbsp;</a><a class="form-bg form-w glib-event-folQQJug glib-participants-jLZDY3Za-AHjFxceb glib-partnames-new-zealand-warriors;sydney-roosters" title="[b]12:10&amp;nbsp;[/b](New Zealand Warriors - Sydney Roosters)
-1466316000">&nbsp;</a><a class="form-bg form-bg-last form-w glib-event-trOjCKQa glib-participants-YqPIXNl6-jLZDY3Za glib-partnames-newcastle-knights;new-zealand-warriors" title="[b]14:50&amp;nbsp;[/b](Newcastle Knights - New Zealand Warriors)
-1465621200">&nbsp;</a></div></td></tr><tr class="odd glib-participant-dUpGFZmo" data-def-order="8"><td class="rank col_rank no" title="">9.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-10835" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -140px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/penrith-panthers/dUpGFZmo/');">Penrith Panthers</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">8</td><td class="wins_ot col_wins_ot">0</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">0</td><td class="losses col_losses">9</td><td class="goals col_goals">345:377</td><td class="goals col_goals">20</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-dCaIimp9 glib-participants-8llKIOZC-dUpGFZmo glib-partnames-brisbane-broncos;penrith-panthers" title="[b]Next match:[/b]
-Brisbane Broncos - Penrith Panthers
-1469181000">&nbsp;</a><a class="form-bg form-w glib-event-CODSUPxd glib-participants-dUpGFZmo-K4NnX1JI glib-partnames-penrith-panthers;parramatta-eels" title="[b]22:18&amp;nbsp;[/b](Penrith Panthers - Parramatta Eels)
-1468735200">&nbsp;</a><a class="form-bg form-l 3 glib-event-lr4wiGgb glib-participants-dUpGFZmo-I33IunsQ glib-partnames-penrith-panthers;cronulla-sharks" title="[b]10:26&amp;nbsp;[/b](Penrith Panthers - Cronulla Sharks)
-1468130400">&nbsp;</a><a class="form-bg form-l 3 glib-event-2XS8yyfB glib-participants-l8kJyHA4-dUpGFZmo glib-partnames-wests-tigers;penrith-panthers" title="[b]34:26&amp;nbsp;[/b](Wests Tigers - Penrith Panthers)
-1467444600">&nbsp;</a><a class="form-bg form-w glib-event-G0xZOcA5 glib-participants-dUpGFZmo-GfiBwwth glib-partnames-penrith-panthers;south-sydney-rabbitohs" title="[b]28:26&amp;nbsp;[/b](Penrith Panthers - South Sydney Rabbitohs)
-1466761800">&nbsp;</a><a class="form-bg form-bg-last form-w glib-event-WWG39IAI glib-participants-GruByQ4m-dUpGFZmo glib-partnames-manly-sea-eagles;penrith-panthers" title="[b]24:31&amp;nbsp;[/b](Manly Sea Eagles - Penrith Panthers)
-1465711200">&nbsp;</a></div></td></tr><tr class="even glib-participant-2im7vJQo" data-def-order="9"><td class="rank col_rank no" title="">10.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-3719" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -40px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/st-george-illawarra-dragons/2im7vJQo/');">St. George Illawarra Dragons</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">7</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">0</td><td class="losses col_losses">9</td><td class="goals col_goals">227:372</td><td class="goals col_goals">20</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-6oZ1qPik glib-participants-2im7vJQo-l8kJyHA4 glib-partnames-st-george-illawarra-dragons;wests-tigers" title="[b]Next match:[/b]
-St. George Illawarra Dragons - Wests Tigers
-1469340000">&nbsp;</a><a class="form-bg form-l 3 glib-event-pAcnkfOA glib-participants-2im7vJQo-xht7x6ks glib-partnames-st-george-illawarra-dragons;gold-coast-titans" title="[b]12:32&amp;nbsp;[/b](St. George Illawarra Dragons - Gold Coast Titans)
-1468576200">&nbsp;</a><a class="form-bg form-l 3 glib-event-fV7mUhno glib-participants-GruByQ4m-2im7vJQo glib-partnames-manly-sea-eagles;st-george-illawarra-dragons" title="[b]36:6&amp;nbsp;[/b](Manly Sea Eagles - St. George Illawarra Dragons)
-1467622800">&nbsp;</a><a class="form-bg form-w glib-event-pzswOHPB glib-participants-YqPIXNl6-2im7vJQo glib-partnames-newcastle-knights;st-george-illawarra-dragons" title="[b]18:30&amp;nbsp;[/b](Newcastle Knights - St. George Illawarra Dragons)
-1466830800">&nbsp;</a><a class="form-bg form-w glib-event-rBpMRaQn glib-participants-2im7vJQo-A5vFzpKg glib-partnames-st-george-illawarra-dragons;melbourne-storm" title="[b]20:10&amp;nbsp;[/b](St. George Illawarra Dragons - Melbourne Storm)
-1466242200">&nbsp;</a><a class="form-bg form-bg-last form-l 3 glib-event-ANF78xQO glib-participants-2im7vJQo-MihOHrkJ glib-partnames-st-george-illawarra-dragons;canterbury-bulldogs" title="[b]16:34&amp;nbsp;[/b](St. George Illawarra Dragons - Canterbury Bulldogs)
-1465797600">&nbsp;</a></div></td></tr><tr class="odd glib-participant-GruByQ4m" data-def-order="10"><td class="rank col_rank no" title="">11.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-6287" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -60px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/manly-sea-eagles/GruByQ4m/');">Manly Sea Eagles</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">5</td><td class="wins_ot col_wins_ot">1</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">0</td><td class="losses col_losses">11</td><td class="goals col_goals">319:387</td><td class="goals col_goals">16</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-pxY5rq7e glib-participants-GfiBwwth-GruByQ4m glib-partnames-south-sydney-rabbitohs;manly-sea-eagles" title="[b]Next match:[/b]
-South Sydney Rabbitohs - Manly Sea Eagles
-1469437200">&nbsp;</a><a class="form-bg form-wo glib-event-O0djlEwH glib-participants-GruByQ4m-jLZDY3Za glib-partnames-manly-sea-eagles;new-zealand-warriors" title="[b]15:14&amp;nbsp;OT [/b](Manly Sea Eagles - New Zealand Warriors)
-1468654200">&nbsp;</a><a class="form-bg form-w glib-event-fV7mUhno glib-participants-GruByQ4m-2im7vJQo glib-partnames-manly-sea-eagles;st-george-illawarra-dragons" title="[b]36:6&amp;nbsp;[/b](Manly Sea Eagles - St. George Illawarra Dragons)
-1467622800">&nbsp;</a><a class="form-bg form-l 3 glib-event-z59auJfn glib-participants-CzOMWs4C-GruByQ4m glib-partnames-north-queensland-cowboys;manly-sea-eagles" title="[b]30:26&amp;nbsp;[/b](NQ Cowboys - Manly Sea Eagles)
-1467018000">&nbsp;</a><a class="form-bg form-l 3 glib-event-xAwVPwea glib-participants-xht7x6ks-GruByQ4m glib-partnames-gold-coast-titans;manly-sea-eagles" title="[b]30:10&amp;nbsp;[/b](Gold Coast Titans - Manly Sea Eagles)
-1466413200">&nbsp;</a><a class="form-bg form-bg-last form-l 3 glib-event-WWG39IAI glib-participants-GruByQ4m-dUpGFZmo glib-partnames-manly-sea-eagles;penrith-panthers" title="[b]24:31&amp;nbsp;[/b](Manly Sea Eagles - Penrith Panthers)
-1465711200">&nbsp;</a></div></td></tr><tr class="even glib-participant-l8kJyHA4" data-def-order="11"><td class="rank col_rank no" title="">12.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-13304" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -220px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/wests-tigers/l8kJyHA4/');">Wests Tigers</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">7</td><td class="wins_ot col_wins_ot">0</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">1</td><td class="losses col_losses">9</td><td class="goals col_goals">351:438</td><td class="goals col_goals">16</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-6oZ1qPik glib-participants-2im7vJQo-l8kJyHA4 glib-partnames-st-george-illawarra-dragons;wests-tigers" title="[b]Next match:[/b]
-St. George Illawarra Dragons - Wests Tigers
-1469340000">&nbsp;</a><a class="form-bg form-l 3 glib-event-fL4Zidvh glib-participants-MihOHrkJ-l8kJyHA4 glib-partnames-canterbury-bulldogs;wests-tigers" title="[b]32:22&amp;nbsp;[/b](Canterbury Bulldogs - Wests Tigers)
-1468056600">&nbsp;</a><a class="form-bg form-w glib-event-2XS8yyfB glib-participants-l8kJyHA4-dUpGFZmo glib-partnames-wests-tigers;penrith-panthers" title="[b]34:26&amp;nbsp;[/b](Wests Tigers - Penrith Panthers)
-1467444600">&nbsp;</a><a class="form-bg form-l 3 glib-event-dEAetaut glib-participants-A5vFzpKg-l8kJyHA4 glib-partnames-melbourne-storm;wests-tigers" title="[b]29:20&amp;nbsp;[/b](Melbourne Storm - Wests Tigers)
-1466920800">&nbsp;</a><a class="form-bg form-w glib-event-2iPnD0Bg glib-participants-l8kJyHA4-GfiBwwth glib-partnames-wests-tigers;south-sydney-rabbitohs" title="[b]30:14&amp;nbsp;[/b](Wests Tigers - South Sydney Rabbitohs)
-1465552200">&nbsp;</a><a class="form-bg form-bg-last form-l 3 glib-event-AuV8KrJJ glib-participants-AHjFxceb-l8kJyHA4 glib-partnames-sydney-roosters;wests-tigers" title="[b]32:18&amp;nbsp;[/b](Sydney Roosters - Wests Tigers)
-1465106400">&nbsp;</a></div></td></tr><tr class="odd glib-participant-GfiBwwth" data-def-order="12"><td class="rank col_rank no" title="">13.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-3717" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -20px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/south-sydney-rabbitohs/GfiBwwth/');">South Sydney Rabbitohs</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">5</td><td class="wins_ot col_wins_ot">0</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">1</td><td class="losses col_losses">11</td><td class="goals col_goals">328:410</td><td class="goals col_goals">14</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-pxY5rq7e glib-participants-GfiBwwth-GruByQ4m glib-partnames-south-sydney-rabbitohs;manly-sea-eagles" title="[b]Next match:[/b]
-South Sydney Rabbitohs - Manly Sea Eagles
-1469437200">&nbsp;</a><a class="form-bg form-l 3 glib-event-GdKJWo8q glib-participants-GfiBwwth-8llKIOZC glib-partnames-south-sydney-rabbitohs;brisbane-broncos" title="[b]10:30&amp;nbsp;[/b](South Sydney Rabbitohs - Brisbane Broncos)
-1468661400">&nbsp;</a><a class="form-bg form-l 3 glib-event-hMLLYYwU glib-participants-GfiBwwth-CzOMWs4C glib-partnames-south-sydney-rabbitohs;north-queensland-cowboys" title="[b]0:20&amp;nbsp;[/b](South Sydney Rabbitohs - NQ Cowboys)
-1467525600">&nbsp;</a><a class="form-bg form-l 3 glib-event-G0xZOcA5 glib-participants-dUpGFZmo-GfiBwwth glib-partnames-penrith-panthers;south-sydney-rabbitohs" title="[b]28:26&amp;nbsp;[/b](Penrith Panthers - South Sydney Rabbitohs)
-1466761800">&nbsp;</a><a class="form-bg form-l 3 glib-event-lloISuBt glib-participants-GfiBwwth-K4NnX1JI glib-partnames-south-sydney-rabbitohs;parramatta-eels" title="[b]12:30&amp;nbsp;[/b](South Sydney Rabbitohs - Parramatta Eels)
-1466157000">&nbsp;</a><a class="form-bg form-bg-last form-l 3 glib-event-2iPnD0Bg glib-participants-l8kJyHA4-GfiBwwth glib-partnames-wests-tigers;south-sydney-rabbitohs" title="[b]30:14&amp;nbsp;[/b](Wests Tigers - South Sydney Rabbitohs)
-1465552200">&nbsp;</a></div></td></tr><tr class="even glib-participant-K4NnX1JI" data-def-order="13"><td class="rank col_rank no" title="">14.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-20102" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -300px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/parramatta-eels/K4NnX1JI/');">Parramatta Eels</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">10</td><td class="wins_ot col_wins_ot">0</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">0</td><td class="losses col_losses">7</td><td class="goals col_goals">162:156</td><td class="goals col_goals"><a class="link-inactive" title="-12 points (Financial problems)">12</a></td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-hvgRkREL glib-participants-xht7x6ks-K4NnX1JI glib-partnames-gold-coast-titans;parramatta-eels" title="[b]Next match:[/b]
-Gold Coast Titans - Parramatta Eels
-1469259000">&nbsp;</a><a class="form-bg form-l 3 glib-event-CODSUPxd glib-participants-dUpGFZmo-K4NnX1JI glib-partnames-penrith-panthers;parramatta-eels" title="[b]22:18&amp;nbsp;[/b](Penrith Panthers - Parramatta Eels)
-1468735200">&nbsp;</a><a class="form-bg form-w glib-event-dznWhxPo glib-participants-K4NnX1JI-AHjFxceb glib-partnames-parramatta-eels;sydney-roosters" title="[b]22:18&amp;nbsp;[/b](Parramatta Eels - Sydney Roosters)
-1467971400">&nbsp;</a><a class="form-bg form-l 3 glib-event-pdIDze9H glib-participants-I33IunsQ-K4NnX1JI glib-partnames-cronulla-sharks;parramatta-eels" title="[b]34:24&amp;nbsp;[/b](Cronulla Sharks - Parramatta Eels)
-1467451800">&nbsp;</a><a class="form-bg form-w glib-event-lloISuBt glib-participants-GfiBwwth-K4NnX1JI glib-partnames-south-sydney-rabbitohs;parramatta-eels" title="[b]12:30&amp;nbsp;[/b](South Sydney Rabbitohs - Parramatta Eels)
-1466157000">&nbsp;</a><a class="form-bg form-bg-last form-w glib-event-O6DeBvt6 glib-participants-K4NnX1JI-xht7x6ks glib-partnames-parramatta-eels;gold-coast-titans" title="[b]22:12&amp;nbsp;[/b](Parramatta Eels - Gold Coast Titans)
-1465630200">&nbsp;</a></div></td></tr><tr class="odd glib-participant-AHjFxceb" data-def-order="14"><td class="rank col_rank no" title="">15.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-13366" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 -260px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/sydney-roosters/AHjFxceb/');">Sydney Roosters</a></span></td><td class="matches_played col_matches_played">16</td><td class="wins col_wins">3</td><td class="wins_ot col_wins_ot">0</td><td class="draws_ae col_draws_ae">0</td><td class="losses_ot col_losses_ot">1</td><td class="losses col_losses">12</td><td class="goals col_goals">273:387</td><td class="goals col_goals">10</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-jFCWTqh2 glib-participants-AHjFxceb-I33IunsQ glib-partnames-sydney-roosters;cronulla-sharks" title="[b]Next match:[/b]
-Sydney Roosters - Cronulla Sharks
-1468832400">&nbsp;</a><a class="form-bg form-l 3 glib-event-dznWhxPo glib-participants-K4NnX1JI-AHjFxceb glib-partnames-parramatta-eels;sydney-roosters" title="[b]22:18&amp;nbsp;[/b](Parramatta Eels - Sydney Roosters)
-1467971400">&nbsp;</a><a class="form-bg form-l 3 glib-event-GGQdvwAh glib-participants-AHjFxceb-MihOHrkJ glib-partnames-sydney-roosters;canterbury-bulldogs" title="[b]20:24&amp;nbsp;[/b](Sydney Roosters - Canterbury Bulldogs)
-1467280200">&nbsp;</a><a class="form-bg form-l 3 glib-event-folQQJug glib-participants-jLZDY3Za-AHjFxceb glib-partnames-new-zealand-warriors;sydney-roosters" title="[b]12:10&amp;nbsp;[/b](New Zealand Warriors - Sydney Roosters)
-1466316000">&nbsp;</a><a class="form-bg form-l 3 glib-event-xAHaAbeC glib-participants-AHjFxceb-A5vFzpKg glib-partnames-sydney-roosters;melbourne-storm" title="[b]0:46&amp;nbsp;[/b](Sydney Roosters - Melbourne Storm)
-1465637400">&nbsp;</a><a class="form-bg form-bg-last form-w glib-event-AuV8KrJJ glib-participants-AHjFxceb-l8kJyHA4 glib-partnames-sydney-roosters;wests-tigers" title="[b]32:18&amp;nbsp;[/b](Sydney Roosters - Wests Tigers)
-1465106400">&nbsp;</a></div></td></tr><tr class="even glib-participant-YqPIXNl6" data-def-order="15"><td class="rank col_rank no" title="">16.</td><td class="participant_name col_participant_name col_name"><span class="team-logo team-logo-3716" style="background: transparent url(/res/image/data/m-byAGlEIb-AyGM8B3K.png?new) 0 0px no-repeat"></span><span class="team_name_span"><a onclick="javascript:getUrlByWinType('/team/newcastle-knights/YqPIXNl6/');">Newcastle Knights</a></span></td><td class="matches_played col_matches_played">17</td><td class="wins col_wins">1</td><td class="wins_ot col_wins_ot">0</td><td class="draws_ae col_draws_ae">1</td><td class="losses_ot col_losses_ot">1</td><td class="losses col_losses">14</td><td class="goals col_goals">221:570</td><td class="goals col_goals">7</td><td class="form col_form"><div class="matches-5 "><a class="form-bg form-s glib-event-lAvcp5xq glib-participants-I33IunsQ-YqPIXNl6 glib-partnames-cronulla-sharks;newcastle-knights" title="[b]Next match:[/b]
-Cronulla Sharks - Newcastle Knights
-1469332800">&nbsp;</a><a class="form-bg form-l 3 glib-event-UaONV5Nk glib-participants-YqPIXNl6-A5vFzpKg glib-partnames-newcastle-knights;melbourne-storm" title="[b]16:20&amp;nbsp;[/b](Newcastle Knights - Melbourne Storm)
-1468728000">&nbsp;</a><a class="form-bg form-lo glib-event-OnHHZEON glib-participants-vD4EtSRJ-YqPIXNl6 glib-partnames-canberra-raiders;newcastle-knights" title="[b]29:25&amp;nbsp;OT [/b](Canberra Raiders - Newcastle Knights)
-1467518400">&nbsp;</a><a class="form-bg form-l 3 glib-event-pzswOHPB glib-participants-YqPIXNl6-2im7vJQo glib-partnames-newcastle-knights;st-george-illawarra-dragons" title="[b]18:30&amp;nbsp;[/b](Newcastle Knights - St. George Illawarra Dragons)
-1466830800">&nbsp;</a><a class="form-bg form-l 3 glib-event-trOjCKQa glib-participants-YqPIXNl6-jLZDY3Za glib-partnames-newcastle-knights;new-zealand-warriors" title="[b]14:50&amp;nbsp;[/b](Newcastle Knights - New Zealand Warriors)
-1465621200">&nbsp;</a><a class="form-bg form-bg-last form-l 3 glib-event-IorNduRC glib-participants-CzOMWs4C-YqPIXNl6 glib-partnames-north-queensland-cowboys;newcastle-knights" title="[b]46:16&amp;nbsp;[/b](NQ Cowboys - Newcastle Knights)
-1465025400">&nbsp;</a></div></td></tr></tbody></table></div><div class="cms table-incidents"><ul><li>Parramatta Eels: -12 points (Financial problems)</li></ul></div></div>
+<?xml version="1.0" encoding="UTF-8"?>
+<standings xmlns="http://feed.elasticstats.com/schema/nfl/standings-v1.0.xsd" season="2015" type="REG">
+  <conference id="AFC" name="AFC">
+    <division id="AFC_EAST" name="AFC East">
+      <team id="NE" name="Patriots" market="New England">
+        <overall wins="12" losses="4" ties="0" wpct="0.75"/>
+        <in_conference wins="9" losses="3" ties="0" wpct="0.75"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="4" losses="2" ties="0" wpct="0.667"/>
+        <home wins="7" losses="1" ties="0" wpct="0.875"/>
+        <away wins="5" losses="3" ties="0" wpct="0.625"/>
+        <overtime wins="0" losses="2" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="2" ties="0" wpct="0.333"/>
+        <turf wins="11" losses="2" ties="0" wpct="0.846"/>
+        <scored_first wins="10" losses="2" ties="0"/>
+        <decided_by_7_points wins="5" losses="3" ties="0"/>
+        <leading_at_half wins="10" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="465" against="315" net="150"/>
+        <touchdowns for="52" against="36"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="NYJ" name="Jets" market="New York">
+        <overall wins="10" losses="6" ties="0" wpct="0.625"/>
+        <in_conference wins="7" losses="5" ties="0" wpct="0.583"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="4" losses="4" ties="0" wpct="0.5"/>
+        <overtime wins="2" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="10" losses="4" ties="0" wpct="0.714"/>
+        <scored_first wins="6" losses="2" ties="0"/>
+        <decided_by_7_points wins="4" losses="5" ties="0"/>
+        <leading_at_half wins="7" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="387" against="314" net="73"/>
+        <touchdowns for="44" against="34"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="BUF" name="Bills" market="Buffalo">
+        <overall wins="8" losses="8" ties="0" wpct="0.5"/>
+        <in_conference wins="7" losses="5" ties="0" wpct="0.583"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="4" losses="2" ties="0" wpct="0.667"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="3" losses="5" ties="0" wpct="0.375"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="3" ties="0" wpct="0.4"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <scored_first wins="5" losses="4" ties="0"/>
+        <decided_by_7_points wins="3" losses="3" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="379" against="359" net="20"/>
+        <touchdowns for="45" against="42"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="MIA" name="Dolphins" market="Miami">
+        <overall wins="6" losses="10" ties="0" wpct="0.375"/>
+        <in_conference wins="4" losses="8" ties="0" wpct="0.333"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="1" losses="5" ties="0" wpct="0.167"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="3" losses="5" ties="0" wpct="0.375"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="6" losses="6" ties="0" wpct="0.5"/>
+        <turf wins="0" losses="4" ties="0" wpct="0.0"/>
+        <scored_first wins="5" losses="0" ties="0"/>
+        <decided_by_7_points wins="3" losses="3" ties="0"/>
+        <leading_at_half wins="4" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="310" against="389" net="-79"/>
+        <touchdowns for="39" against="46"/>
+        <streak type="win" value="1"/>
+      </team>
+    </division>
+    <division id="AFC_NORTH" name="AFC North">
+      <team id="CIN" name="Bengals" market="Cincinnati">
+        <overall wins="12" losses="4" ties="0" wpct="0.75"/>
+        <in_conference wins="9" losses="3" ties="0" wpct="0.75"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="5" losses="1" ties="0" wpct="0.833"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="6" losses="2" ties="0" wpct="0.75"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="4" losses="2" ties="0" wpct="0.667"/>
+        <turf wins="8" losses="2" ties="0" wpct="0.8"/>
+        <scored_first wins="9" losses="3" ties="0"/>
+        <decided_by_7_points wins="4" losses="3" ties="0"/>
+        <leading_at_half wins="9" losses="3" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="419" against="279" net="140"/>
+        <touchdowns for="50" against="29"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="PIT" name="Steelers" market="Pittsburgh">
+        <overall wins="10" losses="6" ties="0" wpct="0.625"/>
+        <in_conference wins="7" losses="5" ties="0" wpct="0.583"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="4" losses="4" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="8" losses="3" ties="0" wpct="0.727"/>
+        <turf wins="2" losses="3" ties="0" wpct="0.4"/>
+        <scored_first wins="6" losses="3" ties="0"/>
+        <decided_by_7_points wins="4" losses="4" ties="0"/>
+        <leading_at_half wins="7" losses="3" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="423" against="319" net="104"/>
+        <touchdowns for="45" against="35"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="BAL" name="Ravens" market="Baltimore">
+        <overall wins="5" losses="11" ties="0" wpct="0.313"/>
+        <in_conference wins="4" losses="8" ties="0" wpct="0.333"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="2" losses="6" ties="0" wpct="0.25"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="2" losses="5" ties="0" wpct="0.286"/>
+        <turf wins="3" losses="6" ties="0" wpct="0.333"/>
+        <scored_first wins="3" losses="3" ties="0"/>
+        <decided_by_7_points wins="5" losses="7" ties="0"/>
+        <leading_at_half wins="2" losses="3" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="328" against="401" net="-73"/>
+        <touchdowns for="33" against="45"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="CLE" name="Browns" market="Cleveland">
+        <overall wins="3" losses="13" ties="0" wpct="0.188"/>
+        <in_conference wins="2" losses="10" ties="0" wpct="0.167"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="1" losses="5" ties="0" wpct="0.167"/>
+        <home wins="2" losses="6" ties="0" wpct="0.25"/>
+        <away wins="1" losses="7" ties="0" wpct="0.125"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="2" losses="9" ties="0" wpct="0.182"/>
+        <turf wins="1" losses="4" ties="0" wpct="0.2"/>
+        <scored_first wins="2" losses="3" ties="0"/>
+        <decided_by_7_points wins="1" losses="5" ties="0"/>
+        <leading_at_half wins="2" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="278" against="432" net="-154"/>
+        <touchdowns for="28" against="49"/>
+        <streak type="loss" value="3"/>
+      </team>
+    </division>
+    <division id="AFC_SOUTH" name="AFC South">
+      <team id="HOU" name="Texans" market="Houston">
+        <overall wins="9" losses="7" ties="0" wpct="0.563"/>
+        <in_conference wins="7" losses="5" ties="0" wpct="0.583"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="5" losses="1" ties="0" wpct="0.833"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="4" losses="4" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="7" losses="5" ties="0" wpct="0.583"/>
+        <turf wins="2" losses="2" ties="0" wpct="0.5"/>
+        <scored_first wins="6" losses="1" ties="0"/>
+        <decided_by_7_points wins="3" losses="3" ties="0"/>
+        <leading_at_half wins="6" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="339" against="313" net="26"/>
+        <touchdowns for="39" against="37"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="IND" name="Colts" market="Indianapolis">
+        <overall wins="8" losses="8" ties="0" wpct="0.5"/>
+        <in_conference wins="6" losses="6" ties="0" wpct="0.5"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="4" losses="2" ties="0" wpct="0.667"/>
+        <home wins="4" losses="4" ties="0" wpct="0.5"/>
+        <away wins="4" losses="4" ties="0" wpct="0.5"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="3" losses="3" ties="0" wpct="0.5"/>
+        <turf wins="5" losses="5" ties="0" wpct="0.5"/>
+        <scored_first wins="7" losses="3" ties="0"/>
+        <decided_by_7_points wins="7" losses="4" ties="0"/>
+        <leading_at_half wins="5" losses="3" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="333" against="408" net="-75"/>
+        <touchdowns for="37" against="47"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="JAC" name="Jaguars" market="Jacksonville">
+        <overall wins="5" losses="11" ties="0" wpct="0.313"/>
+        <in_conference wins="5" losses="7" ties="0" wpct="0.417"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="2" losses="4" ties="0" wpct="0.333"/>
+        <home wins="4" losses="4" ties="0" wpct="0.5"/>
+        <away wins="1" losses="7" ties="0" wpct="0.125"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="3" losses="7" ties="0" wpct="0.3"/>
+        <turf wins="2" losses="4" ties="0" wpct="0.333"/>
+        <scored_first wins="3" losses="2" ties="0"/>
+        <decided_by_7_points wins="4" losses="6" ties="0"/>
+        <leading_at_half wins="2" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="376" against="448" net="-72"/>
+        <touchdowns for="44" against="51"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="TEN" name="Titans" market="Tennessee">
+        <overall wins="3" losses="13" ties="0" wpct="0.188"/>
+        <in_conference wins="1" losses="11" ties="0" wpct="0.083"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="1" losses="5" ties="0" wpct="0.167"/>
+        <home wins="1" losses="7" ties="0" wpct="0.125"/>
+        <away wins="2" losses="6" ties="0" wpct="0.25"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="2" losses="10" ties="0" wpct="0.167"/>
+        <turf wins="1" losses="3" ties="0" wpct="0.25"/>
+        <scored_first wins="2" losses="5" ties="0"/>
+        <decided_by_7_points wins="2" losses="6" ties="0"/>
+        <leading_at_half wins="2" losses="2" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="299" against="423" net="-124"/>
+        <touchdowns for="37" against="51"/>
+        <streak type="loss" value="4"/>
+      </team>
+    </division>
+    <division id="AFC_WEST" name="AFC West">
+      <team id="DEN" name="Broncos" market="Denver">
+        <overall wins="12" losses="4" ties="0" wpct="0.75"/>
+        <in_conference wins="8" losses="4" ties="0" wpct="0.667"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="4" losses="2" ties="0" wpct="0.667"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="6" losses="2" ties="0" wpct="0.75"/>
+        <overtime wins="3" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="11" losses="3" ties="0" wpct="0.786"/>
+        <turf wins="1" losses="1" ties="0" wpct="0.5"/>
+        <scored_first wins="9" losses="1" ties="0"/>
+        <decided_by_7_points wins="9" losses="3" ties="0"/>
+        <leading_at_half wins="8" losses="2" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="355" against="296" net="59"/>
+        <touchdowns for="38" against="32"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="KC" name="Chiefs" market="Kansas City">
+        <overall wins="11" losses="5" ties="0" wpct="0.688"/>
+        <in_conference wins="10" losses="2" ties="0" wpct="0.833"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="5" losses="1" ties="0" wpct="0.833"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="5" losses="3" ties="0" wpct="0.625"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="9" losses="3" ties="0" wpct="0.75"/>
+        <turf wins="2" losses="2" ties="0" wpct="0.5"/>
+        <scored_first wins="8" losses="2" ties="0"/>
+        <decided_by_7_points wins="4" losses="3" ties="0"/>
+        <leading_at_half wins="9" losses="1" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="405" against="287" net="118"/>
+        <touchdowns for="45" against="34"/>
+        <streak type="win" value="10"/>
+      </team>
+      <team id="OAK" name="Raiders" market="Oakland">
+        <overall wins="7" losses="9" ties="0" wpct="0.438"/>
+        <in_conference wins="7" losses="5" ties="0" wpct="0.583"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="4" losses="4" ties="0" wpct="0.5"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="7" losses="8" ties="0" wpct="0.467"/>
+        <turf wins="0" losses="1" ties="0" wpct="0.0"/>
+        <scored_first wins="3" losses="2" ties="0"/>
+        <decided_by_7_points wins="5" losses="5" ties="0"/>
+        <leading_at_half wins="4" losses="2" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="359" against="399" net="-40"/>
+        <touchdowns for="42" against="41"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="SD" name="Chargers" market="San Diego">
+        <overall wins="4" losses="12" ties="0" wpct="0.25"/>
+        <in_conference wins="3" losses="9" ties="0" wpct="0.25"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="0" losses="6" ties="0" wpct="0.0"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="1" losses="7" ties="0" wpct="0.125"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="4" losses="9" ties="0" wpct="0.308"/>
+        <turf wins="0" losses="3" ties="0" wpct="0.0"/>
+        <scored_first wins="1" losses="3" ties="0"/>
+        <decided_by_7_points wins="3" losses="8" ties="0"/>
+        <leading_at_half wins="2" losses="4" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="320" against="398" net="-78"/>
+        <touchdowns for="35" against="44"/>
+        <streak type="loss" value="2"/>
+      </team>
+    </division>
+  </conference>
+  <conference id="NFC" name="NFC">
+    <division id="NFC_EAST" name="NFC East">
+      <team id="WAS" name="Redskins" market="Washington">
+        <overall wins="9" losses="7" ties="0" wpct="0.563"/>
+        <in_conference wins="8" losses="4" ties="0" wpct="0.667"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="4" losses="2" ties="0" wpct="0.667"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="3" losses="5" ties="0" wpct="0.375"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="8" losses="3" ties="0" wpct="0.727"/>
+        <turf wins="1" losses="4" ties="0" wpct="0.2"/>
+        <scored_first wins="7" losses="3" ties="0"/>
+        <decided_by_7_points wins="4" losses="3" ties="0"/>
+        <leading_at_half wins="8" losses="3" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="388" against="379" net="9"/>
+        <touchdowns for="44" against="44"/>
+        <streak type="win" value="4"/>
+      </team>
+      <team id="PHI" name="Eagles" market="Philadelphia">
+        <overall wins="7" losses="9" ties="0" wpct="0.438"/>
+        <in_conference wins="4" losses="8" ties="0" wpct="0.333"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="4" losses="4" ties="0" wpct="0.5"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="3" losses="7" ties="0" wpct="0.3"/>
+        <turf wins="4" losses="2" ties="0" wpct="0.667"/>
+        <scored_first wins="3" losses="2" ties="0"/>
+        <decided_by_7_points wins="5" losses="3" ties="0"/>
+        <leading_at_half wins="5" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="377" against="430" net="-53"/>
+        <touchdowns for="45" against="50"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="NYG" name="Giants" market="New York">
+        <overall wins="6" losses="10" ties="0" wpct="0.375"/>
+        <in_conference wins="4" losses="8" ties="0" wpct="0.333"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="2" losses="4" ties="0" wpct="0.333"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="3" losses="5" ties="0" wpct="0.375"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="2" ties="0" wpct="0.5"/>
+        <turf wins="4" losses="8" ties="0" wpct="0.333"/>
+        <scored_first wins="3" losses="2" ties="0"/>
+        <decided_by_7_points wins="3" losses="8" ties="0"/>
+        <leading_at_half wins="4" losses="4" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="420" against="442" net="-22"/>
+        <touchdowns for="47" against="50"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="DAL" name="Cowboys" market="Dallas">
+        <overall wins="4" losses="12" ties="0" wpct="0.25"/>
+        <in_conference wins="3" losses="9" ties="0" wpct="0.25"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="1" losses="7" ties="0" wpct="0.125"/>
+        <away wins="3" losses="5" ties="0" wpct="0.375"/>
+        <overtime wins="0" losses="2" ties="0" wpct="0.0"/>
+        <grass wins="3" losses="2" ties="0" wpct="0.6"/>
+        <turf wins="1" losses="10" ties="0" wpct="0.091"/>
+        <scored_first wins="4" losses="7" ties="0"/>
+        <decided_by_7_points wins="2" losses="6" ties="0"/>
+        <leading_at_half wins="2" losses="5" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="275" against="374" net="-99"/>
+        <touchdowns for="26" against="41"/>
+        <streak type="loss" value="4"/>
+      </team>
+    </division>
+    <division id="NFC_NORTH" name="NFC North">
+      <team id="MIN" name="Vikings" market="Minnesota">
+        <overall wins="11" losses="5" ties="0" wpct="0.688"/>
+        <in_conference wins="8" losses="4" ties="0" wpct="0.667"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="5" losses="1" ties="0" wpct="0.833"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="5" losses="3" ties="0" wpct="0.625"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="3" losses="3" ties="0" wpct="0.5"/>
+        <turf wins="8" losses="2" ties="0" wpct="0.8"/>
+        <scored_first wins="9" losses="0" ties="0"/>
+        <decided_by_7_points wins="4" losses="2" ties="0"/>
+        <leading_at_half wins="8" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="365" against="302" net="63"/>
+        <touchdowns for="38" against="31"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="GB" name="Packers" market="Green Bay">
+        <overall wins="10" losses="6" ties="0" wpct="0.625"/>
+        <in_conference wins="7" losses="5" ties="0" wpct="0.583"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="5" losses="3" ties="0" wpct="0.625"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="8" losses="6" ties="0" wpct="0.571"/>
+        <turf wins="2" losses="0" ties="0" wpct="1.0"/>
+        <scored_first wins="8" losses="2" ties="0"/>
+        <decided_by_7_points wins="2" losses="3" ties="0"/>
+        <leading_at_half wins="8" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="368" against="323" net="45"/>
+        <touchdowns for="42" against="36"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="DET" name="Lions" market="Detroit">
+        <overall wins="7" losses="9" ties="0" wpct="0.438"/>
+        <in_conference wins="6" losses="6" ties="0" wpct="0.5"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="4" losses="4" ties="0" wpct="0.5"/>
+        <away wins="3" losses="5" ties="0" wpct="0.375"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="2" losses="1" ties="0" wpct="0.667"/>
+        <turf wins="5" losses="8" ties="0" wpct="0.385"/>
+        <scored_first wins="5" losses="5" ties="0"/>
+        <decided_by_7_points wins="4" losses="4" ties="0"/>
+        <leading_at_half wins="6" losses="3" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="358" against="400" net="-42"/>
+        <touchdowns for="42" against="47"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="CHI" name="Bears" market="Chicago">
+        <overall wins="6" losses="10" ties="0" wpct="0.375"/>
+        <in_conference wins="3" losses="9" ties="0" wpct="0.25"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="1" losses="5" ties="0" wpct="0.167"/>
+        <home wins="1" losses="7" ties="0" wpct="0.125"/>
+        <away wins="5" losses="3" ties="0" wpct="0.625"/>
+        <overtime wins="0" losses="2" ties="0" wpct="0.0"/>
+        <grass wins="5" losses="7" ties="0" wpct="0.417"/>
+        <turf wins="1" losses="3" ties="0" wpct="0.25"/>
+        <scored_first wins="1" losses="3" ties="0"/>
+        <decided_by_7_points wins="5" losses="6" ties="0"/>
+        <leading_at_half wins="4" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="335" against="397" net="-62"/>
+        <touchdowns for="34" against="47"/>
+        <streak type="loss" value="1"/>
+      </team>
+    </division>
+    <division id="NFC_SOUTH" name="NFC South">
+      <team id="CAR" name="Panthers" market="Carolina">
+        <overall wins="15" losses="1" ties="0" wpct="0.938"/>
+        <in_conference wins="11" losses="1" ties="0" wpct="0.917"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="5" losses="1" ties="0" wpct="0.833"/>
+        <home wins="8" losses="0" ties="0" wpct="1.0"/>
+        <away wins="7" losses="1" ties="0" wpct="0.875"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="11" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="4" losses="1" ties="0" wpct="0.8"/>
+        <scored_first wins="10" losses="1" ties="0"/>
+        <decided_by_7_points wins="6" losses="1" ties="0"/>
+        <leading_at_half wins="12" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="500" against="308" net="192"/>
+        <touchdowns for="59" against="35"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="ATL" name="Falcons" market="Atlanta">
+        <overall wins="8" losses="8" ties="0" wpct="0.5"/>
+        <in_conference wins="5" losses="7" ties="0" wpct="0.417"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="1" losses="5" ties="0" wpct="0.167"/>
+        <home wins="4" losses="4" ties="0" wpct="0.5"/>
+        <away wins="4" losses="4" ties="0" wpct="0.5"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="2" losses="3" ties="0" wpct="0.4"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <scored_first wins="4" losses="4" ties="0"/>
+        <decided_by_7_points wins="6" losses="5" ties="0"/>
+        <leading_at_half wins="3" losses="3" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="339" against="345" net="-6"/>
+        <touchdowns for="38" against="41"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="NO" name="Saints" market="New Orleans">
+        <overall wins="7" losses="9" ties="0" wpct="0.438"/>
+        <in_conference wins="5" losses="7" ties="0" wpct="0.417"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="4" losses="4" ties="0" wpct="0.5"/>
+        <away wins="3" losses="5" ties="0" wpct="0.375"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="1" losses="5" ties="0" wpct="0.167"/>
+        <turf wins="6" losses="4" ties="0" wpct="0.6"/>
+        <scored_first wins="4" losses="4" ties="0"/>
+        <decided_by_7_points wins="5" losses="4" ties="0"/>
+        <leading_at_half wins="5" losses="2" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="408" against="476" net="-68"/>
+        <touchdowns for="51" against="59"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="TB" name="Buccaneers" market="Tampa Bay">
+        <overall wins="6" losses="10" ties="0" wpct="0.375"/>
+        <in_conference wins="5" losses="7" ties="0" wpct="0.417"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="3" losses="5" ties="0" wpct="0.375"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="4" losses="8" ties="0" wpct="0.333"/>
+        <turf wins="2" losses="2" ties="0" wpct="0.5"/>
+        <scored_first wins="3" losses="4" ties="0"/>
+        <decided_by_7_points wins="5" losses="3" ties="0"/>
+        <leading_at_half wins="4" losses="3" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="342" against="417" net="-75"/>
+        <touchdowns for="37" against="47"/>
+        <streak type="loss" value="4"/>
+      </team>
+    </division>
+    <division id="NFC_WEST" name="NFC West">
+      <team id="ARI" name="Cardinals" market="Arizona">
+        <overall wins="13" losses="3" ties="0" wpct="0.813"/>
+        <in_conference wins="10" losses="2" ties="0" wpct="0.833"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="4" losses="2" ties="0" wpct="0.667"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="7" losses="1" ties="0" wpct="0.875"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="10" losses="3" ties="0" wpct="0.769"/>
+        <turf wins="3" losses="0" ties="0" wpct="1.0"/>
+        <scored_first wins="10" losses="1" ties="0"/>
+        <decided_by_7_points wins="4" losses="1" ties="0"/>
+        <leading_at_half wins="10" losses="1" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="489" against="313" net="176"/>
+        <touchdowns for="58" against="34"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="SEA" name="Seahawks" market="Seattle">
+        <overall wins="10" losses="6" ties="0" wpct="0.625"/>
+        <in_conference wins="7" losses="5" ties="0" wpct="0.583"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="3" losses="3" ties="0" wpct="0.5"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="5" losses="3" ties="0" wpct="0.625"/>
+        <overtime wins="0" losses="2" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="1" ties="0" wpct="0.667"/>
+        <turf wins="8" losses="5" ties="0" wpct="0.615"/>
+        <scored_first wins="8" losses="2" ties="0"/>
+        <decided_by_7_points wins="2" losses="5" ties="0"/>
+        <leading_at_half wins="9" losses="2" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="423" against="277" net="146"/>
+        <touchdowns for="49" against="28"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="STL" name="Rams" market="St. Louis">
+        <overall wins="7" losses="9" ties="0" wpct="0.438"/>
+        <in_conference wins="6" losses="6" ties="0" wpct="0.5"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="4" losses="2" ties="0" wpct="0.667"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="2" losses="6" ties="0" wpct="0.25"/>
+        <overtime wins="1" losses="2" ties="0" wpct="0.333"/>
+        <grass wins="1" losses="3" ties="0" wpct="0.25"/>
+        <turf wins="6" losses="6" ties="0" wpct="0.5"/>
+        <scored_first wins="5" losses="3" ties="0"/>
+        <decided_by_7_points wins="4" losses="4" ties="0"/>
+        <leading_at_half wins="6" losses="3" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="280" against="330" net="-50"/>
+        <touchdowns for="31" against="32"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="SF" name="49ers" market="San Francisco">
+        <overall wins="5" losses="11" ties="0" wpct="0.313"/>
+        <in_conference wins="4" losses="8" ties="0" wpct="0.333"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="1" losses="5" ties="0" wpct="0.167"/>
+        <home wins="4" losses="4" ties="0" wpct="0.5"/>
+        <away wins="1" losses="7" ties="0" wpct="0.125"/>
+        <overtime wins="2" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="5" losses="7" ties="0" wpct="0.417"/>
+        <turf wins="0" losses="4" ties="0" wpct="0.0"/>
+        <scored_first wins="2" losses="3" ties="0"/>
+        <decided_by_7_points wins="4" losses="2" ties="0"/>
+        <leading_at_half wins="3" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="238" against="387" net="-149"/>
+        <touchdowns for="24" against="43"/>
+        <streak type="win" value="1"/>
+      </team>
+    </division>76
+  </conference>
+</standings>
