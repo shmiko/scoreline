@@ -1,14 +1,17 @@
 {
     "id": "718a4f52-c6af-4080-b955-95e8769b68a7",
-    "scheduled": "2016-06-25T02:20:00+00:00",
-    "status": "closed",
+    "date_played": "2016-17-07",
+    "status": "complete",
+    "round": "19",
+    "playing_field": "UOW Jubilee Oval, Sydney",
+    "winning_team": "GLD",
+    "final_result": "32-12"
     "home_team": {
-        "id": "ST",
-        "name": "kn",
-        "market": "San Francisco",
-        "remaining_challenges": 2,
-        "remaining_timeouts": 2,
-        "points": 20,
+        "id": "STI",
+        "mascot": "Dragons",
+        "name": "St George Illawarra",
+        "league": "Telstra Cup",
+        "points": 12,
         "statistics": {
             "touchdowns": {
                 "team": {
@@ -1455,12 +1458,11 @@
         }
     },
     "away_team": {
-        "id": "MIN",
-        "name": "Vikings",
-        "market": "Minnesota",
-        "remaining_challenges": 2,
-        "remaining_timeouts": 2,
-        "points": 3,
+        "id": "GLD",
+        "mascot": "Titans"
+        "name": "Gold Coast",
+        "league": "Telstra Cup",
+        "points": 32,
         "statistics": {
             "third_down_efficiency": {
                 "team": {
