@@ -8,7 +8,7 @@
     "final_result": "32-12",
     "home_team": {
         "id": "STI",
-        "mascot": "Dragons",
+        "moniker": "Dragons",
         "name": "St George Illawarra",
         "league": "Telstra Premiership",
         "points": 12,
@@ -96,7 +96,7 @@
     },
     "away_team": {
         "id": "GLD",
-        "mascot": "Titans",
+        "moniker": "Titans",
         "name": "Gold Coast",
         "league": "Telstra Cup",
         "points": 32,
