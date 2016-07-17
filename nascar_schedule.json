@@ -1,0 +1,75 @@
+{
+    "series": {
+        "id": "3e32047e",
+        "name": "NASCAR Sprint Cup",
+         "year": 2016
+    },
+    "events": [{
+        "id": "c1836cdd",
+        "name": "Daytona 500",
+        "start_date": "2016-13-02",
+        "track": {
+            "name": "Daytona International Speedway",
+            "market": "Daytona Beach",
+            "distance": 2.5,
+            "shape": "Tri-Oval",
+            "seating": 101000,
+            "address": "1801 West International Speedway Blvd.",
+            "city": "Daytona Beach",
+            "state": "Florida",
+            "zip": "32114",
+            "country": "USA",
+            "id": "6ff97f68"
+        },
+        "races": [{
+            "id": "1",
+            "name": "Sprint Unlimited",
+            "status": "closed",
+            "distance": 187,
+            "laps": 75,
+            "scheduled": "2016-14-02",
+            "start_time": "2016-14-02",
+            "end_time": "2016-14-02",
+            "broadcast": {
+                "network": "FOX"
+            }
+        }, {
+            "id": "2",
+            "name": "Can-Am Duel At Daytona 1",
+            "status": "closed",
+            "distance": 150,
+            "laps": 60,
+            "scheduled": "2016-19-02",
+            "start_time": "2016-19-02",
+            "end_time": "2016-19-02",
+            "broadcast": {
+                "network": "FS1"
+            }
+        }, {
+            "id": "3",
+            "name": "Can-Am Duel At Daytona 2",
+            "status": "closed",
+            "distance": 150,
+            "laps": 60,
+            "scheduled": "2016-20-02",
+            "start_time": "2016-20-02",
+            "end_time": "2016-20-02",
+            "broadcast": {
+                "network": "FS1"
+            }
+        }, {
+            "id": "4",
+            "name": "Daytona 500",
+            "status": "closed",
+            "number": 1,
+            "distance": 500,
+            "laps": 200,
+            "scheduled": "2016-21-02",
+            "start_time": "2016-21-02",
+            "end_time": "2016-21-02",
+            "broadcast": {
+                "network": "FOX"
+            }
+        }]
+    }]
+}
