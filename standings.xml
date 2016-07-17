@@ -4,23 +4,23 @@
     <division id="FIRST_GRADE" name="First Grade">
       <team id="MAN" name="Manly" moniker="sea eagles">
         <matches_played matches_played="17"/>
-        <wins wins="9"/>
-        <wins_overtime wins_overtime="3"/>
-        <draws draws="4"/>
-        <losses_overtime losses_overtime="7"/>
-        <losses losses="5"/>
-        <goals goals="0"/>
-        <points points="1"/>
+        <wins wins="5"/>
+        <wins_overtime wins_overtime="1"/>
+        <draws draws="0"/>
+        <losses_overtime losses_overtime="0"/>
+        <losses losses="11"/>
+        <goals goals="319:387"/>
+        <points points="16"/>
       </team>
       <team id="WAR" name="New Zealand" moniker="Warriors">
         <matches_played matches_played="17"/>
-        <wins wins="9"/>
-        <wins_overtime wins_overtime="3"/>
-        <draws draws="4"/>
-        <losses_overtime losses_overtime="7"/>
-        <losses losses="5"/>
-        <goals goals="0"/>
-        <points points="1"/>
+        <wins wins="7"/>
+        <wins_overtime wins_overtime="1"/>
+        <draws draws="0"/>
+        <losses_overtime losses_overtime="2"/>
+        <losses losses="7"/>
+        <goals goals="377:394"/>
+        <points points="20"/>
       </team>
       <team id="BUF" name="Bills" moniker="Buffalo">
         <matches_played matches_played="17"/>
